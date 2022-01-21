@@ -12,3 +12,5 @@ https://etrenholm.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Erica Trenholm
+
+# Run Buddy Inc.
